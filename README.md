@@ -1,5 +1,5 @@
 # tree-shaking-lodash
-**Main content of this repo :** Please refer to ```pages\index.vue``` <script> tag and ```nuxt.config.js``` (Line 43 - 103).
+**Main content of this repo :** Please refer to ```pages\index.vue``` <script> tag and ```nuxt.config.js``` (Line 50 and Line 82).
 
 ## Build Setup
 
