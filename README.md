@@ -1,8 +1,8 @@
 # tree-shaking-lodash
 
-## Build Setup
+## **Main content of this repo : Please refer to pages\index.vue and nuxt.config.js.**
 
-# **Main content of this repo : Please refer to pages\index.vue and nuxt.config.js.**
+## Build Setup
 
 ```bash
 # install dependencies
