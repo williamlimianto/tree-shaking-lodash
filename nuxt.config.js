@@ -42,7 +42,6 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     babel: {
-      // Check Line (50) only
       // Key concept: Scan whole project (for every .js file and <script> tag)
       // and then, split / recompile every existing global import (import _ from 'lodash' or import { something } from 'lodash' ) into modularized import
       // so it will allow the cherrypick process by lodash-webpack-plugin.
